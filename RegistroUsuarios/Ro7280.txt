@@ -1,0 +1,20 @@
+Usuario 
+ID: 1752387280
+Nombre: Ronald
+Numero de telefono: 0987654321
+Contraseña:ronaldpg960123
+Usuario 
+ID: 1752387280
+Nombre: Ronald Puruncajas
+Numero de telefono: 09876123
+Contraseña: ronaldpg960123
+Usuario 
+ID: 1752387280
+Nombre: Ronald
+Numero de telefono: 098765431
+Contraseña: ronaldpg960123
+Usuario 
+ID: 1752387280
+Nombre: Ronald
+Numero de telefono: 098765432
+Contraseña: ronaldpg960123
